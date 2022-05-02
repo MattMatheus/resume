@@ -1,0 +1,29 @@
+.infoblock {
+    text-align: center;
+}
+
+#name {
+    color: green;
+    font-size: 2em;
+}
+
+#address {
+    font-size: 1.25em;
+}
+
+#phone {
+    font-size: 1.1em;
+}
+
+#content {
+    margin-left: 25px;
+}
+
+#jobtitle {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+#jobcompany {
+    font-style: italic;
+}
